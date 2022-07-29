@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [GitHub Pages](https://pages.github.com/)
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [GitHub Pages](https://linda-obioma.github.io/huddle-landing-page/)
+- Solution URL: [Add solution URL here](https://github.com/Linda-Obioma/huddle-landing-page)
 
 ## My process
 
